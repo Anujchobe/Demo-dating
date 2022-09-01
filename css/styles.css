@@ -1,0 +1,128 @@
+body {
+  font-family: "Montserrat";
+  background-color: #c2ffd9;
+}
+#title {
+  background-color: #ff4848;
+  color: #fff;
+}
+h1 {
+  /* font-family: 'Montserrat', sans-serif; */
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  font-style: italic;
+}
+.text{
+  position: relative;
+  padding-left: 70px;
+}
+.container-fluid {
+  padding: 2% 10% 3% 10%;
+}
+.navbar {
+  padding-bottom: 4.5rem;
+}
+.navbar-brand {
+  font-family: "ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item {
+  padding: 0 12px;
+}
+
+.nav-link {
+  font-weight: lighter;
+  font-size: 1.2rem;
+}
+.dwn1 {
+  margin: 10% 5% 3% 12%;
+  font-size: 1.5rem;
+}
+.dwn2{
+  margin: 10% 5% 3% 3%;
+  font-size: 1.5rem;
+}
+.img {
+  width: 22rem;
+  margin-left: 160px;
+}
+.icn {
+  font-size: 3.5rem;
+  color: #de8383;
+  margin-bottom: 1.5rem;
+}
+.title{
+  padding-top: 3%;
+}
+.row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+h3 {
+  font-weight: bold;
+}
+.h2 {
+  font-weight: bold;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  color: #fff;
+}
+h2{
+  font-weight: bold;
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+
+#features {
+  padding: 7% 15% ;
+  margin-bottom: -13%;
+  background-color: #c2ffd9;
+  position: relative;
+  z-index: 1;
+  bottom: 200px;
+}
+.feat {
+  text-align: center;
+  padding: 5%;
+}
+.icn:hover {
+  color: #ff4848;
+}
+#testimonials {
+  background-color: #ffd371;
+
+  text-align: center;
+}
+.carousel-item {
+  padding: 7% 20%;
+}
+.tes-img {
+  width: 15%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press {
+  background-color: #ffd371;
+  text-align: center;
+  padding-bottom: 5;
+}
+.pr-logo {
+  width: 15%;
+  margin: 2% 3% 3%;
+}
+.carousel-control-prev-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+}
+
+.carousel-control-next-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+}
+#pricing{
+  text-align: center;
+  padding: 100px
+}
+.cl{
+  padding:3% 2% ;
+}

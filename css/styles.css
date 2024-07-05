@@ -133,3 +133,17 @@ h2{
 .container-fluid{
     padding: 7% 15%;
 }
+.svg-inline--fa.fa-w-12 {
+    width: .75em;
+}
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+.svg-inline--fa {
+    display: inline-block;
+    font-size: inherit;
+    height: 1em;
+    overflow: visible;
+    vertical-align: -.125em;
+}

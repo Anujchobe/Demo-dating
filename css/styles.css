@@ -127,6 +127,9 @@ h2{
   padding:3% 2% ;
 }
 .colored-section{
-  background-color= #ff4848;
-  color= #fff;
+  background-color: #ff4848;
+  color: #fff;
+}
+.container-fluid{
+    padding: 7% 15%;
 }

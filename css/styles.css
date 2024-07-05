@@ -147,3 +147,8 @@ h2{
     overflow: visible;
     vertical-align: -.125em;
 }
+.big-heading {
+    font-family: "Montserrat-Black";
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
